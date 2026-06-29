@@ -1,4 +1,4 @@
-# 
+# Melhor vLLM plugins. Com fluxos de trabalho automatizados e código aberto — otimizado para máximo desempenho e eficiência.
 
 
 
